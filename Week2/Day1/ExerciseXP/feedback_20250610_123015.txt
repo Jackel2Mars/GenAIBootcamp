@@ -1,0 +1,14 @@
+URL: https://github.com/Jackel2Mars/GenAIBootcamp/blob/main/Week2/Day1/ExerciseXP/ExercisesXP_W2D1.ipynb
+suggestions for improvement:
+- In Exercise 3, the code doesn't handle the case where the user inputs an empty string or only whitespace. Add input validation to check for this.
+- In Exercise 4,  the prompt asks for height in centimeters.  While the code works, adding a clarifying comment would improve readability, stating that the input should be in centimeters. Consider adding more robust input validation to ensure only numerical values are accepted.
+- In Exercise 5,  the code adds 26 twice. This is not ideal as the instructions say 'Add two *new* numbers'.  It then removes 5. The user experience could be improved by adding more descriptive print statements.
+- Exercise 6 correctly explains the immutability of tuples, but adding a more informative print statement about the outcome will improve it.
+- In Exercise 8, the loop to remove 'Pastrami sandwich' is inefficient; a list comprehension or `list.remove` could improve it. The code for creating `finished_sandwiches` could be simplified.
+- Add more comments to explain complex sections of the code.  Improve the formatting to enhance readability, including consistent use of spacing and indentation.
+Brief justification:
+- correctness: The code generally fulfills the requirements of each exercise, but there are some minor inaccuracies and missing features noted above (missing input validation in Exercises 3 and 4, redundant operation and unclear instructions in Exercise 5, lack of informative print statements in exercise 6 and inefficient list manipulation in Exercise 8) which prevent it from achieving a perfect score. The overall correctness is high as most of the core functionalities are correctly implemented based on the requirements given in the chapter content.
+- readability: The code is mostly readable, but some improvements can be made.  Adding comments to explain non-obvious steps and using more descriptive variable names would enhance readability. The formatting is acceptable but inconsistent in some places. While generally understandable, the code would benefit from better structure and comments.
+- performance: The code's performance is good for the small-scale exercises. The code runs efficiently with no noticeable delays. The only notable performance concern is the inefficient loop in Exercise 8, which could be optimized as mentioned in the feedback.
+- security: The code does not present any security vulnerabilities as it only interacts with the user for input and performs simple calculations. There is no external data access or user authentication involved.
+
