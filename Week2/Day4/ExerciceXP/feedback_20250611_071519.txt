@@ -1,0 +1,14 @@
+URL: URL: https://github.com/Jackel2Mars/GenAIBootcamp/blob/main/Week2/Day4/ExerciceXP/ExercisesXP_W2D4_2.py
+suggestions for improvement:
+- In Exercise 3, the `play` method in the `PetDog` class could be improved by explicitly handling the case where no other dogs are passed as arguments. Currently it concatenates names and then adds " all play together". If no other dogs are provided the output would be "Fido all play together", which is not ideal.  Consider adding a check to handle this scenario gracefully, perhaps printing a message indicating that the dog is playing alone.
+- In Exercise 4, while the `check_majority` method correctly identifies a person and their age, it uses hardcoded parents' names ('Jane' and 'John').  It would be better to make this more flexible, perhaps taking parent's names as input or using the family's last name to generate a more appropriate message.
+Correctness: 95%
+-----
+URL: URL: https://github.com/Jackel2Mars/GenAIBootcamp/blob/main/Week2/Day4/ExerciceXP/ExercisesXP_W2_D4_1.py
+suggestions for improvement:
+- Exercise 1: The Siamese class doesn't add any unique attributes or methods, as suggested in the instructions. Consider adding a breed-specific attribute (e.g., 'coat_color') or method (e.g., 'point_pattern').
+- Exercise 3: The provided solution for Exercise 3 includes the detailed code in the comments, which makes the exercise instructions somewhat redundant. It would be better to provide only the function signatures and let the students write the actual code, except for the import statement.
+- Exercise 3: In the `PetDog` class, the `play` method should take a variable number of arguments. However, the provided solution only handles two arguments. The code should be updated to handle multiple dogs using `*args`.
+- Exercise 4: The exercise description doesn't explicitly state to use `random` module. Therefore, I'd recommend removing it from the instructions and letting students implement it independently.
+Correctness: 90%
+-----
