@@ -1,0 +1,16 @@
+URL: https://github.com/Jackel2Mars/GenAIBootcamp/blob/main/Week2/Day2/ExerciseXP/ExercicesXP_W2D2.ipynb
+suggestions for improvement:
+- **Exercise 1:** The use of `zip` is efficient and aligns with the instructions.  No improvements needed.
+- **Exercise 2:** The bonus part of allowing user input is well-implemented. However, error handling (e.g., for non-numeric age input) is missing.
+- **Exercise 3:**  The code correctly manipulates the dictionary. The custom functions for counting keys and listing keys are overly complex for this task; built-in `len()` and methods like `keys()` are sufficient and more readable.
+- **Exercise 4:** The function correctly uses default parameters and string formatting. No improvements needed.
+- **Exercise 5:** The function correctly uses `random.randint()` and handles conditions. Input validation (checking if the input is within 1-100) is a good addition.
+- **Exercise 6:**  The function effectively uses default parameters and keyword arguments as instructed. No improvements needed.
+- **Exercise 7:** The implementation of seasons and floating point temperatures (bonus) is well done. The function is well structured and handles different temperature ranges correctly.
+- **Exercise 8:** The pizza topping loop is correctly implemented and stops when the user types 'quit'. The cost calculation is accurate. No improvements needed.
+Brief justification:
+- correctness: Most exercises are correctly implemented and meet the requirements specified in the chapter content.  Minor omissions like error handling (Exercise 2) and overly complex solutions (Exercise 3) reduce the score slightly. The code accurately reflects the specified key Python topics for each exercise.
+- readability: The code is generally readable, but some parts (like the custom key-counting functions in Exercise 3) could be simplified for improved clarity.  Consistent use of f-strings for string formatting enhances readability.
+- performance: The code's performance is generally good, with efficient use of built-in functions like `zip`.  The unnecessary functions in Exercise 3 slightly reduce performance, but the overall impact is minimal.
+- security: No security vulnerabilities are present in the provided code.  The code does not interact with external resources or handle sensitive data.
+

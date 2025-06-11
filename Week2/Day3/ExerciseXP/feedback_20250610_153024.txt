@@ -1,0 +1,18 @@
+URL: URL: https://github.com/Jackel2Mars/GenAIBootcamp/blob/main/Week2/Day3/ExerciseXP/ExercicesXP_W2D3.ipynb
+suggestions for improvement:
+- **Exercise 1: Cats:** The `find_oldest_cat` function works correctly.  However, it could be made more concise and Pythonic. Consider using the `max()` function with a `key` argument to find the oldest cat directly.
+- **Exercise 2: Dogs:** The `compare_dogs_height` function is good, but the output of `sarahs_dog`'s height is incorrect (it uses `davids_dog.height` instead of `sarahs_dog.height`).  There's also a typo (`do2.name` instead of `dog2.name`). The `bark()` and `jump()` methods should print directly, not return a string; the print statement should be inside the methods.
+- **Exercise 3: Song:** The `sing_me_a_song` method unnecessarily concatenates strings in a loop which can be inefficient for large lists.  Using `join()` would be more efficient. The `print()` statement should be inside the `sing_me_a_song` method.
+- **Exercise 4: Zoo:**  The code for `add_animal`, `sell_animal`, `get_animals`, `sort_animals`, and `get_groups` is mostly correct and implements the requirements. However, the `get_animals` method can be simplified by using `', '.join(self.animals) + '.'` instead of the loop and conditional statements.
+- Add docstrings to all functions to improve readability and explain their purpose.
+Correctness: 85%
+-----
+URL: URL: https://github.com/Jackel2Mars/GenAIBootcamp/blob/main/Week2/Day3/ExerciseXP/ExercicesXP_W3D3.py
+suggestions for improvement:
+- In Exercise 1, the `find_oldest_cat` function could be made more concise using the `max()` function with a custom key.
+- In Exercise 2, the `compare_dogs_height` function is good, but the output of the example is slightly off. It prints davids_dog's height twice in the output for sarah's dog.
+- In Exercise 3, the `sing_me_a_song` method unnecessarily creates a string. It could directly print each line.
+- In Exercise 4, the `get_animals` method could be more efficient by using the `join()` method for string concatenation.
+- In Exercise 4, the `sort_animals` method should handle edge cases where no animals are added, causing a `KeyError`. Add a check for empty `self.animals` list before proceeding with the sort and grouping. 
+Correctness: 95%
+-----
