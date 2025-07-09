@@ -11,4 +11,6 @@ __pycache__/
 # Dossiers temporaires Jupyter
 .ipynb_checkpoints/
 
-Data.zip
+#Ignorer Data.zip
+Week5/Day3/ExerciceXP/Data.zip
+
