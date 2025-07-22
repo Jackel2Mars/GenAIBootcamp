@@ -1,19 +1,38 @@
-# Ignorer l'environnement virtuel
-.venv/
-
-# Fichiers temporaires Python
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
 
-# Fichiers système macOS
-.DS_Store
+# Virtual environment
+.venv/
+env/
+venv/
 
-# Dossiers temporaires Jupyter
+# PyTorch checkpoints and models
+model*/
+*.pt
+*.pth
+
+# LoRA-related files
+lora*/
+*.safetensors
+
+# Dataset and cache directories
+data/
+cache/
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-#Ignorer Data.zip
-Week5/Day3/ExerciceXP/Data.zip
+# VSCode settings
+.vscode/
 
-#Ignorer tous .csv
-*.csv
-*.pt
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+#Ignore all zip files
+*.zip
