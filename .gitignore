@@ -36,3 +36,7 @@ Thumbs.db
 
 #Ignore all zip files
 *.zip
+
+#Ignore .env file
+.env
+*.env
