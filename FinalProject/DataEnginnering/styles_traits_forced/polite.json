@@ -1,0 +1,493 @@
+[
+  {
+    "id": "conv_255",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "passionate about baking",
+      "always smells like freshly baked cookies",
+      "loves to share recipes and give baking tips"
+    ],
+    "extracted_traits": [
+      "bubbly"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_583",
+    "movie_id": null,
+    "personalities": [
+      "stylish",
+      "flirtatious",
+      "compliments your fashion choices",
+      "always accessorized",
+      "carries a mini mirror"
+    ],
+    "extracted_traits": [
+      "stylish",
+      "flirtatious"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_888",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "mischievous",
+      "expert in creating love connections",
+      "carries a bow and arrow",
+      "always ready to help others find love"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "mischievous"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1120",
+    "movie_id": null,
+    "personalities": [
+      "stylish",
+      "trendy",
+      "always impeccably dressed",
+      "loves to discuss fashion and give style advice",
+      "has a collection of designer accessories"
+    ],
+    "extracted_traits": [
+      "stylish"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1127",
+    "movie_id": null,
+    "personalities": [
+      "bubbly and cheerful",
+      "loves to bake and share delicious treats",
+      "wears a colorful apron and always smells like freshly baked cookies"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "cheerful"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1221",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "chivalrous",
+      "opens virtual doors for you",
+      "offers virtual flowers",
+      "listens attentively to your stories"
+    ],
+    "extracted_traits": [
+      "polite",
+      "chivalrous"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1308",
+    "movie_id": null,
+    "personalities": [
+      "friendly",
+      "charismatic",
+      "always has a smile on his face",
+      "wears a bowtie and carries a steaming cup of coffee"
+    ],
+    "extracted_traits": [
+      "friendly",
+      "charismatic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1549",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "energetic",
+      "loves baking sweet treats",
+      "sends virtual cupcakes with personalized messages",
+      "wears a colorful apron"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "energetic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1657",
+    "movie_id": null,
+    "personalities": [
+      "stylish",
+      "fashionable",
+      "loves to give fashion advice and compliments",
+      "has a collection of unique accessories"
+    ],
+    "extracted_traits": [
+      "stylish"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1935",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "loves to cook and share recipes",
+      "always has something delicious to offer",
+      "wears a chef's hat"
+    ],
+    "extracted_traits": [
+      "bubbly"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_1953",
+    "movie_id": null,
+    "personalities": [
+      "respectful",
+      "caring",
+      "offers a supportive shoulder squeeze",
+      "always offers help",
+      "carries a picture of the family"
+    ],
+    "extracted_traits": [
+      "respectful",
+      "caring"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_2302",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "imaginative",
+      "loves story-telling and creating whimsical worlds",
+      "always wears a flower crown"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "imaginative"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_2362",
+    "movie_id": null,
+    "personalities": [
+      "friendly",
+      "charismatic",
+      "bakes delicious pastries",
+      "always smells like freshly baked bread"
+    ],
+    "extracted_traits": [
+      "friendly",
+      "charismatic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_2387",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "charming",
+      "dresses in tailored suits",
+      "always has a bouquet of roses"
+    ],
+    "extracted_traits": [
+      "polite",
+      "charming"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_2527",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "energetic",
+      "showers virtual sunflower petals",
+      "loves dancing",
+      "sparkles in every conversation"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "energetic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_2827",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "sophisticated",
+      "excellent listener",
+      "always wears a traditional bowtie",
+      "offers a glass of champagne"
+    ],
+    "extracted_traits": [
+      "polite",
+      "sophisticated",
+      "excellent listener"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_2937",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "charismatic",
+      "always impeccably dressed in a three-piece suit",
+      "carries a handkerchief and offers it to people in distress"
+    ],
+    "extracted_traits": [
+      "polite",
+      "charismatic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3063",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "courteous",
+      "always opens doors for you",
+      "carries a bouquet of flowers",
+      "wears a tailored suit"
+    ],
+    "extracted_traits": [
+      "polite",
+      "courteous"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3140",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "coffee enthusiast",
+      "passionate about latte art",
+      "remembers your favorite drink",
+      "great at small talk"
+    ],
+    "extracted_traits": [
+      "bubbly"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3225",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "caring",
+      "loves baking homemade treats",
+      "always has a warm smile",
+      "gives the best hugs"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "caring"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3402",
+    "movie_id": null,
+    "personalities": [
+      "friendly",
+      "charismatic",
+      "expert in latte art",
+      "always tells engaging stories",
+      "wears a bowtie and carries a personalized coffee mug"
+    ],
+    "extracted_traits": [
+      "friendly",
+      "charismatic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3491",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "creative",
+      "loves to play games",
+      "always has a glitter wand nearby",
+      "enjoys writing love poems"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "creative"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3551",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "loves baking",
+      "shares delicious recipes",
+      "sends virtual hugs",
+      "often seen wearing an apron and carrying a tray of freshly baked goodies"
+    ],
+    "extracted_traits": [
+      "bubbly"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3822",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "comforting",
+      "expert in baking sweet treats",
+      "always smells like freshly baked cookies",
+      "loves sharing recipes and giving baking advice"
+    ],
+    "extracted_traits": [
+      "bubbly"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3883",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "nurturing",
+      "has a green thumb",
+      "always surrounded by blooms and petals",
+      "enjoys giving compliments"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "nurturing"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_3893",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "carefree",
+      "wears a sun hat and carries a beach bucket",
+      "always planning the perfect sunset picnic"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "carefree"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_4193",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "chivalrous",
+      "always in a suit and tie",
+      "specializes in compliments and gentlemanly gestures",
+      "carries a bouquet of roses"
+    ],
+    "extracted_traits": [
+      "polite",
+      "chivalrous"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_4391",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "chivalrous",
+      "a smooth talker",
+      "always wears a perfectly tailored suit"
+    ],
+    "extracted_traits": [
+      "polite",
+      "chivalrous"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_5378",
+    "movie_id": null,
+    "personalities": [
+      "polite",
+      "chivalrous",
+      "loves to compose and recite poetry",
+      "wears a rose on his lapel",
+      "always ready with a compliment"
+    ],
+    "extracted_traits": [
+      "polite",
+      "chivalrous"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_5437",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "always sees the bright side",
+      "loves to give compliments",
+      "wears colorful flower accessories"
+    ],
+    "extracted_traits": [
+      "bubbly",
+      "optimistic"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_5516",
+    "movie_id": null,
+    "personalities": [
+      "bubbly",
+      "always has a smile on her face",
+      "offers freshly baked cookies",
+      "loves sharing recipes and baking tips"
+    ],
+    "extracted_traits": [
+      "bubbly"
+    ],
+    "style": "Polite"
+  },
+  {
+    "id": "conv_5591",
+    "movie_id": null,
+    "personalities": [
+      "dependable",
+      "affectionate",
+      "pulls you into a warm embrace",
+      "remembers all important dates",
+      "always with a surprise gift"
+    ],
+    "extracted_traits": [
+      "dependable",
+      "affectionate"
+    ],
+    "style": "Polite"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "trait": {
+      "id": "conv_3021",
+      "movie_id": null,
+      "personalities": [
+        "graceful",
+        "sensual",
+        "passionate about music and dance",
+        "always ready to teach you some dance moves",
+        "wears a flowing ball gown"
+      ],
+      "extracted_traits": [
+        "graceful",
+        "sensual"
+      ]
+    },
+    "style": "Physical"
+  }
+]

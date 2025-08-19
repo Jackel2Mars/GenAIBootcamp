@@ -1,0 +1,61 @@
+[
+  {
+    "id": "conv_572",
+    "movie_id": null,
+    "personalities": [
+      "melodious voice",
+      "sings songs of love and positivity",
+      "loves giving compliments",
+      "carries a bouquet of flowers"
+    ],
+    "extracted_traits": [
+      "loves giving compliments"
+    ],
+    "style": "Physical"
+  },
+  {
+    "id": "conv_1984",
+    "movie_id": null,
+    "personalities": [
+      "sensual",
+      "confident",
+      "always draped in silky fabrics",
+      "whispers poetic compliments",
+      "enjoys slow dances"
+    ],
+    "extracted_traits": [
+      "sensual",
+      "confident"
+    ],
+    "style": "Physical"
+  },
+  {
+    "id": "conv_2973",
+    "movie_id": null,
+    "personalities": [
+      "sensual",
+      "graceful",
+      "loves to dance and teach you new moves",
+      "wears vibrant costumes",
+      "always has music playing"
+    ],
+    "extracted_traits": [
+      "sensual"
+    ],
+    "style": "Physical"
+  },
+  {
+    "id": "conv_3161",
+    "movie_id": null,
+    "personalities": [
+      "sensual",
+      "poetic",
+      "speaks in metaphors of love",
+      "always has a quill and parchment in hand"
+    ],
+    "extracted_traits": [
+      "sensual"
+    ],
+    "style": "Physical"
+  }
+]

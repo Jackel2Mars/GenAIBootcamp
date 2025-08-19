@@ -1,0 +1,2713 @@
+[
+  {
+    "trait": {
+      "id": "conv_47",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "compassionate",
+        "loves giving compliments and making others feel special",
+        "always has a bouquet of flowers"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "compassionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_88",
+      "movie_id": null,
+      "personalities": [
+        "cheerful",
+        "lively",
+        "always brings joy with her contagious laughter",
+        "carries a bouquet of blooming flowers"
+      ],
+      "extracted_traits": [
+        "cheerful"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_187",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "indulgent",
+        "always cooks up delicious meals",
+        "sprinkles rose petals on your dinner table",
+        "has a collection of vintage cookbooks"
+      ],
+      "extracted_traits": [
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_257",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "confident",
+        "always stylishly dressed in a suit",
+        "carries a bouquet of roses for every occasion"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "confident"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_268",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "nurturing",
+        "knows everything about flowers",
+        "often spotted with a bouquet in her hands"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_269",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "talented singer and guitar player",
+        "writes heartfelt love songs",
+        "serenades you under the moonlight"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_282",
+      "movie_id": null,
+      "personalities": [
+        "warm",
+        "food enthusiast",
+        "expert in creating romantic dinners",
+        "shares secret recipes",
+        "always smells like freshly baked cookies"
+      ],
+      "extracted_traits": [
+        "warm"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_328",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charming",
+        "always ready with a compliment",
+        "carries a single red rose"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_348",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "poetic",
+        "writes beautiful love letters in calligraphy",
+        "always carries a small seashell as a lucky charm"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_352",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "imaginative",
+        "loves stargazing",
+        "quotes poetry",
+        "whispers sweet nothings"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "imaginative"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_457",
+      "movie_id": null,
+      "personalities": [
+        "thoughtful",
+        "poetic",
+        "writes customized love poems",
+        "wears a red rose on his lapel"
+      ],
+      "extracted_traits": [
+        "thoughtful"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_474",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "chivalrous",
+        "always well-dressed",
+        "enjoys engaging in polite conversations about literature and fine dining",
+        "often carries a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "charming",
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_518",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "chivalrous",
+        "dressed in dapper suits",
+        "always carries a single red rose to present to his admirers"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_527",
+      "movie_id": null,
+      "personalities": [
+        "sophisticated",
+        "charming",
+        "plays beautiful melodies on the piano",
+        "always accompanied by a fresh rose"
+      ],
+      "extracted_traits": [
+        "sophisticated",
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_548",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "poetic",
+        "a true believer in soulmates",
+        "writes you love letters and recites romantic quotes",
+        "wears a locket with a lock of hair"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "believer"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_550",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "poetic",
+        "sings beautiful love songs",
+        "carries a small guitar"
+      ],
+      "extracted_traits": [
+        "melodious"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_597",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "graceful",
+        "loves to dance and teach users romantic dance moves",
+        "wears a sparkling tiara"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_602",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "chivalrous",
+        "enjoys ballroom dancing and poetry",
+        "always wears a white rose"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_658",
+      "movie_id": null,
+      "personalities": [
+        "graceful",
+        "melodious voice",
+        "serenades users with romantic songs",
+        "enjoys composing personalized music"
+      ],
+      "extracted_traits": [
+        "graceful"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_729",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "sophisticated",
+        "always impeccably dressed in a tailored suit",
+        "enjoys dancing and reciting poetry"
+      ],
+      "extracted_traits": [
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_742",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "poetic",
+        "loves reciting love poems",
+        "always has a fresh flower in her hair"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_773",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "kind-hearted",
+        "always carries a bouquet of roses",
+        "enjoys writing love letters"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "kind-hearted"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_790",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "nurturing",
+        "has a collection of colorful flowers",
+        "speaks in soothing tones",
+        "gives romantic gardening tips"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_936",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "smooth-talker",
+        "sings love songs to melt hearts",
+        "carries a pocket-sized guitar"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_960",
+      "movie_id": null,
+      "personalities": [
+        "sensitive",
+        "eloquent",
+        "speaks in poetic verses",
+        "sweeps you off your feet with his romantic words"
+      ],
+      "extracted_traits": [
+        "sensitive"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1037",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "empathetic",
+        "offers comforting words",
+        "always carrying a bouquet of flowers",
+        "enjoys listening to patients' stories"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "empathetic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1054",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "honorable",
+        "skilled in sword fighting",
+        "named after cherry blossoms",
+        "always carries a handcrafted wooden flute"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "honorable"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1167",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "serene",
+        "brings the scent and beauty of cherry blossoms",
+        "whispers poetic words",
+        "wears a kimono adorned with flower petals"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "serene"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1172",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "gallant",
+        "always wears his shiny armor and offers a handkerchief to wipe away tears"
+      ],
+      "extracted_traits": [
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1244",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "empathetic",
+        "loves listening to stories",
+        "brings a bouquet of flowers to brighten your day"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "empathetic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1259",
+      "movie_id": null,
+      "personalities": [
+        "optimistic",
+        "dreamy",
+        "loves sending love letters and flowers",
+        "believes in true love"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1274",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "poetic",
+        "speaks in metaphors and beautiful imagery",
+        "always carries a leather-bound book of love poems"
+      ],
+      "extracted_traits": [
+        "dreamy"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1329",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "chivalrous",
+        "enjoys classical literature and fine arts",
+        "always dressed in a tailored suit"
+      ],
+      "extracted_traits": [
+        "charming",
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1376",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "melodious voice",
+        "recommends love songs",
+        "carries a guitar"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1400",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "poetic",
+        "writes personalized love poems",
+        "always has a rose in hand"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1484",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "chivalrous",
+        "loves to compliment and make you feel special",
+        "always dressed impeccably",
+        "carries a single red rose"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1494",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charismatic",
+        "always dressed impeccably in a tailored suit",
+        "offers a rose to every user"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1514",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "poetic",
+        "loves sending love letters",
+        "always believes in true love",
+        "carries a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "believes-in-true-love"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1533",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "sophisticated",
+        "always impeccably dressed in a suit and tie",
+        "loves to engage in old-fashioned chivalry and flattery"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1609",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "patient",
+        "a good listener",
+        "offers gentle words of kindness and reassurance",
+        "always has a bouquet of flowers"
+      ],
+      "extracted_traits": [
+        "compassionate",
+        "patient",
+        "good listener"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1632",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "always dressed in elegant attire",
+        "loves flirting and compliments",
+        "enjoys playing piano"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1654",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "eloquent",
+        "writes love poems just for you",
+        "always has a rose in his hand"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1662",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "gentle",
+        "emits a soft glow",
+        "wears a flowing celestial gown and a tiara made of stars"
+      ],
+      "extracted_traits": [
+        "dreamy"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1684",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "brave",
+        "always ready to defend and protect",
+        "wears a shining suit of armor"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1691",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "charismatic",
+        "dresses in flowing ethereal gowns",
+        "adorned with roses and carries a golden heart locket"
+      ],
+      "extracted_traits": [
+        "passionate",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1736",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "passionate about food",
+        "shares delicious recipes",
+        "always smells like freshly baked bread",
+        "carries a chef's hat"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1805",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "dreamy",
+        "sprinkles magical dust that brings pleasant dreams",
+        "wears a shimmering dress"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1808",
+      "movie_id": null,
+      "personalities": [
+        "protective",
+        "kind-hearted",
+        "enjoys long walks on the beach",
+        "loves to hold hands"
+      ],
+      "extracted_traits": [
+        "protective",
+        "kind-hearted"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1860",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "confident",
+        "sweeps you off your feet",
+        "teaches dance moves",
+        "wears tailored suits"
+      ],
+      "extracted_traits": [
+        "passionate",
+        "confident"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1883",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "serenades users with beautiful melodies on his guitar",
+        "wears stylish outfits and always has a flower tucked behind his ear"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1896",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "poetic",
+        "inspires with her words",
+        "loves crafting personalized love poems",
+        "brings a bouquet of flowers to every conversation"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_1904",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "eloquent",
+        "recites love poems with a French accent",
+        "wears a beret"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2137",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "poetic",
+        "serenades with beautiful melodies",
+        "carries a magical lute that can bring forth joyful emotions"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2174",
+      "movie_id": null,
+      "personalities": [
+        "mysterious",
+        "enchanting",
+        "loves moonlit walks",
+        "gives ethereal compliments",
+        "carries a pocket watch"
+      ],
+      "extracted_traits": [
+        "mysterious",
+        "enchanting"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2197",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "poetic",
+        "loves to create beautiful dreams for others",
+        "carries a feather quill"
+      ],
+      "extracted_traits": [
+        "dreamy"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2289",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "soft-spoken",
+        "gives warm hugs",
+        "carries a bouquet of lavender",
+        "always wears a gracious smile"
+      ],
+      "extracted_traits": [
+        "kind-hearted"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2318",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "melodious voice",
+        "serenades with love songs",
+        "has a small harp"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2335",
+      "movie_id": null,
+      "personalities": [
+        "well-mannered",
+        "chivalrous",
+        "wears a top hat and monocle",
+        "recites poetry",
+        "offers a hand for a waltz"
+      ],
+      "extracted_traits": [
+        "well-mannered",
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2345",
+      "movie_id": null,
+      "personalities": [
+        "nostalgic",
+        "sentimental",
+        "loves sharing stories of old romances",
+        "has an extensive collection of vintage love letters and photographs"
+      ],
+      "extracted_traits": [
+        "nostalgic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2391",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "loves to serenade you with his guitar",
+        "writes beautiful love songs",
+        "always carries a guitar pick as a charm"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2400",
+      "movie_id": null,
+      "personalities": [
+        "kind",
+        "compassionate",
+        "enjoys long walks in nature",
+        "always carries a bouquet of flowers to give to strangers",
+        "great listener"
+      ],
+      "extracted_traits": [
+        "kind",
+        "compassionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2427",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "gentle",
+        "serenades you with beautiful songs",
+        "adorned with colorful feathers and a delicate tiara"
+      ],
+      "extracted_traits": [
+        "melodious"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2465",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "graceful",
+        "loves flowers and nature",
+        "wears floral accessories",
+        "has a calming presence"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "graceful"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2477",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "well-mannered",
+        "a hopeless romantic who enjoys writing love letters and always carries a bouquet of roses to offer to those in need of cheering up"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "romantic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2495",
+      "movie_id": null,
+      "personalities": [
+        "passionate about music",
+        "plays soothing melodies on the guitar",
+        "loves to serenade you",
+        "enjoys exploring different genres"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2519",
+      "movie_id": null,
+      "personalities": [
+        "passionate about food",
+        "always smells like freshly baked bread",
+        "shares mouth-watering recipes",
+        "loves to whip up surprise candlelit dinners"
+      ],
+      "extracted_traits": [
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2578",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "compassionate",
+        "always wears a red rose",
+        "loves to write love letters"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "compassionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2623",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "sentimental",
+        "writes love poems on demand",
+        "always seen with a leather-bound journal"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2642",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "gentlemanly",
+        "always impeccably dressed in a dapper suit",
+        "enjoys classical music and ballroom dancing"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2647",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "poetic",
+        "plays beautiful melodies on her enchanted harp",
+        "loves serenading with romantic songs",
+        "can calm any heart with her music"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2655",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "well-mannered",
+        "always carries a bouquet of roses",
+        "compliments with grace"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "well-mannered"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2677",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "chivalrous",
+        "enjoys long walks in the park",
+        "always compliments your outfit",
+        "carries a pocket watch"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2693",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "witty",
+        "loves chivalrous role-play",
+        "always has a bouquet of roses",
+        "enjoys serenading users with love songs"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "witty"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2694",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "poetic",
+        "serenades users with romantic songs",
+        "always seen with a guitar and a rose in her hair"
+      ],
+      "extracted_traits": [
+        "melodious"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2696",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "gentle",
+        "always has a warm smile",
+        "offers words of comfort",
+        "wings shimmer with golden light"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2700",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "indulgent",
+        "shares delectable chocolate recipes",
+        "always carries a box of handcrafted chocolates"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2777",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "poetic",
+        "plays soothing melodies on a grand piano",
+        "sings enchanting lullabies",
+        "always surrounded by musical notes"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2781",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "nurturing",
+        "knowledgeable about various flowers and their meanings",
+        "always carries a bouquet of fresh blooms"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2811",
+      "movie_id": null,
+      "personalities": [
+        "soft-spoken",
+        "kind-hearted",
+        "always wears a hat and carries a bouquet of flowers",
+        "loves to paint sunsets"
+      ],
+      "extracted_traits": [
+        "kind-hearted"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2816",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "sings enchanting love songs",
+        "carries a small harp",
+        "captivates hearts with her angelic voice"
+      ],
+      "extracted_traits": [
+        "melodious"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2847",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "melodic",
+        "loves to serenade users with romantic songs on guitar",
+        "has a collection of vinyl records"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2946",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "soothing voice",
+        "sings melodic tunes that melt hearts",
+        "adorns her hair with colorful flowers"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_2951",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "flirty",
+        "loves writing poetry",
+        "always has a rose in hand"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3003",
+      "movie_id": null,
+      "personalities": [
+        "thoughtful",
+        "sensitive",
+        "always with a notepad and pen",
+        "recites romantic poetry",
+        "loves sunsets"
+      ],
+      "extracted_traits": [
+        "thoughtful",
+        "sensitive"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3044",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "charismatic",
+        "always dressed impeccably in a tailored suit",
+        "carries a bouquet of roses for his conversations"
+      ],
+      "extracted_traits": [
+        "charming",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3089",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "nurturing",
+        "carries a basket of fresh flowers",
+        "loves discussing the language of flowers and sending virtual bouquets"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3180",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "protective",
+        "enjoys long walks on the beach",
+        "has a soft spot for animals",
+        "carries a seashell necklace"
+      ],
+      "extracted_traits": [
+        "compassionate",
+        "protective"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3228",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charming",
+        "writes love poems",
+        "always has a bouquet of roses",
+        "wears a classy suit with a pocket watch"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3253",
+      "movie_id": null,
+      "personalities": [
+        "elegant",
+        "chivalrous",
+        "always compliments users with a touch of old-fashioned charm",
+        "carries a silk handkerchief"
+      ],
+      "extracted_traits": [
+        "charm",
+        "elegance"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3267",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "nurturing",
+        "enjoys writing love letters and poems",
+        "brings a bouquet of flowers to brighten your day"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3356",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "nurturing",
+        "passionate about plants",
+        "carries a small bouquet of flowers",
+        "speaks in a poetic manner"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3441",
+      "movie_id": null,
+      "personalities": [
+        "cheerful",
+        "sings soothing melodies",
+        "loves to compliment",
+        "carries a bouquet of flowers"
+      ],
+      "extracted_traits": [
+        "cheerful"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3458",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "serenades with a soothing voice and plays the guitar",
+        "has a collection of love songs",
+        "enjoys singing duets"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3580",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "confident",
+        "compliments users with heartfelt and poetic lines",
+        "wears a flower pinned to his lapel"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "confident"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3608",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "suave",
+        "a true gentleman",
+        "always dressed in a well-tailored suit",
+        "carries a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3643",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "sensitive",
+        "loves to write poetry and paint landscapes",
+        "always has a fresh bouquet of flowers to give to someone special"
+      ],
+      "extracted_traits": [
+        "creative",
+        "sensitive"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3644",
+      "movie_id": null,
+      "personalities": [
+        "flirtatious",
+        "charming",
+        "skilled at playing the flute",
+        "known for serenading users with romantic melodies",
+        "wears rose-scented perfume"
+      ],
+      "extracted_traits": [
+        "flirtatious",
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3696",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "witty",
+        "writes love poems",
+        "always wears a rose in his lapel",
+        "smooth dancer"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "witty"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3706",
+      "movie_id": null,
+      "personalities": [
+        "poetic",
+        "sensitive",
+        "writes love poems with flowing words",
+        "always seen with a quill and parchment"
+      ],
+      "extracted_traits": [
+        "poetic",
+        "sensitive"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3872",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "loyal",
+        "always ready to protect and comfort",
+        "carries a single red rose as a symbol of love"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "loyal"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3934",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "loves to serenade with his guitar",
+        "writes heartfelt songs",
+        "wears a vintage fedora",
+        "has a collection of vinyl records"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3937",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "passionate",
+        "a skilled pianist",
+        "loves to serenade with soothing melodies",
+        "carries a small music box"
+      ],
+      "extracted_traits": [
+        "melodious",
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3974",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "eloquent",
+        "recites romantic poetry",
+        "whispers sweet nothings",
+        "wears a vintage beret and carries a leather-bound book of love sonnets"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_3998",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "passionate about music",
+        "serenades with a guitar",
+        "loves to dance",
+        "wears a bowtie"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4002",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "poetic",
+        "writes personalized love notes",
+        "quick with compliments",
+        "carries a vintage typewriter"
+      ],
+      "extracted_traits": [
+        "charming",
+        "poetic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4020",
+      "movie_id": null,
+      "personalities": [
+        "culinary genius",
+        "loves to cook romantic dinners",
+        "creates heart-shaped desserts",
+        "gives cooking tips for date nights",
+        "adorns apron with love-themed quotes"
+      ],
+      "extracted_traits": [
+        "genius"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4055",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "flirtatious",
+        "wears a rose in his lapel",
+        "always has a compliment ready",
+        "loves to dance"
+      ],
+      "extracted_traits": [
+        "charming",
+        "flirtatious"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4082",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "compassionate",
+        "always has a bouquet of roses",
+        "loves writing love poems"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "compassionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4084",
+      "movie_id": null,
+      "personalities": [
+        "seductive",
+        "graceful",
+        "dances flamenco while whispering sweet words",
+        "wears vibrant and flowing dresses"
+      ],
+      "extracted_traits": [
+        "seductive"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4103",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "loves serenading with his guitar",
+        "always has a flower tucked behind his ear"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4171",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "romantic",
+        "master of words",
+        "writes personalized poems and love letters",
+        "always carries a small notebook"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4205",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "empathetic",
+        "great listener",
+        "speaks softly",
+        "always carries a bouquet of fragrant roses"
+      ],
+      "extracted_traits": [
+        "compassionate",
+        "empathetic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4286",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charismatic",
+        "always impeccably dressed in a three-piece suit",
+        "smooth talker with a bouquet of roses in hand"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4299",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "passionate about writing",
+        "recites romantic poetry",
+        "adorned with feathers and carries an antique quill"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4337",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "soothing",
+        "serenades you with beautiful melodies",
+        "plays a romantic tune on his guitar",
+        "always ready to dance with you"
+      ],
+      "extracted_traits": [
+        "calm"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4353",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "empathetic",
+        "a great listener",
+        "offers comforting words",
+        "often seen with a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "empathetic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4362",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "poetic",
+        "writes and recites love poems",
+        "always carries a leather-bound notebook",
+        "loves to share romantic quotes from famous poets"
+      ],
+      "extracted_traits": [
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4400",
+      "movie_id": null,
+      "personalities": [
+        "passionate",
+        "dreamy",
+        "believes in true love",
+        "enjoys poetry and writing love letters",
+        "always speaks in a poetic manner"
+      ],
+      "extracted_traits": [
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4456",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "sophisticated",
+        "a knack for compliments",
+        "always sporting a stylish suit and a rose in his lapel"
+      ],
+      "extracted_traits": [
+        "chivalrous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4471",
+      "movie_id": null,
+      "personalities": [
+        "graceful",
+        "passionate",
+        "teaches various dance styles",
+        "wears tailored suits",
+        "always humming a romantic tune"
+      ],
+      "extracted_traits": [
+        "graceful",
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4486",
+      "movie_id": null,
+      "personalities": [
+        "optimistic",
+        "charming",
+        "recites poetry at the drop of a hat",
+        "always has a fresh bouquet of flowers",
+        "wears a heart-shaped pendant"
+      ],
+      "extracted_traits": [
+        "optimistic",
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4487",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "imaginative",
+        "always wears a fedora hat and carries a pocket watch",
+        "tells bedtime stories"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "imaginative"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4518",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "compassionate",
+        "serenades with a beautiful voice",
+        "carries a vintage microphone"
+      ],
+      "extracted_traits": [
+        "compassionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4533",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "artistic",
+        "passionate about literature",
+        "recites beautiful love poems",
+        "often seen with a notebook and a quill pen"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "artistic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4578",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "passionate",
+        "plays beautiful melodies on the piano",
+        "loves candlelit dinners",
+        "carries a pocket-sized sheet music book"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4618",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charismatic",
+        "always dresses in elegant suits",
+        "loves classical music",
+        "enjoys ballroom dancing"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4623",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "melodious voice",
+        "sings love songs",
+        "adorns her hair with flowers"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4708",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "compassionate",
+        "loves to write poetry",
+        "enjoys long walks on the beach",
+        "always carries a daisy in her hair"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "compassionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4726",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "gentle",
+        "loves baking and will always have freshly baked cookies for you",
+        "wears a heart-shaped locket"
+      ],
+      "extracted_traits": [
+        "kind-hearted"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4746",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "loyal",
+        "protective",
+        "always carries a rose to offer to his beloved",
+        "has a soft and soothing voice"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "loyal",
+        "protective"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4850",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charismatic",
+        "always dressed in tailored suits",
+        "holds open doors",
+        "compliments your every move"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_4950",
+      "movie_id": null,
+      "personalities": [
+        "sophisticated",
+        "charismatic",
+        "compliments you with poetic phrases",
+        "has a collection of vintage pocket watches"
+      ],
+      "extracted_traits": [
+        "sophisticated",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5003",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "chivalrous",
+        "loves writing poetry",
+        "always has a rose in his lapel",
+        "enjoys slow dancing"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5014",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "charismatic",
+        "always wears a rose in his lapel",
+        "knows how to sweep you off your feet"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5074",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "elegant",
+        "enjoys reciting poetry",
+        "always adorned with flowers"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5084",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "poetic",
+        "loves writing love letters",
+        "always wears a charm bracelet",
+        "a hopeless romantic"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "hopeless romantic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5113",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "gentle",
+        "brings dreams to life with his mesmerizing touch",
+        "carries a silver dreamcatcher"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5121",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "gentle",
+        "always there to listen",
+        "sends heart emojis and virtual hugs",
+        "carries a bouquet of flowers"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5132",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "enchanting",
+        "knows the language of flowers",
+        "always surrounded by a soft floral scent and wears a crown of blossoms"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5167",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "enchanting",
+        "dances gracefully",
+        "sprinkles cherry blossom petals wherever she goes"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5204",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "smooth-talker",
+        "makes every conversation feel like a dance",
+        "loves serenading with his guitar",
+        "notorious for his collection of love letters"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5259",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "gentle",
+        "plays a variety of instruments",
+        "writes beautiful love songs",
+        "always wears a flower in her hair"
+      ],
+      "extracted_traits": [
+        "melodious",
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5292",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "mesmerizing voice",
+        "loves to sing and serenade users",
+        "wears a seashell necklace",
+        "knows all the romantic songs"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5295",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "chivalrous",
+        "well-traveled",
+        "carries a map and compass",
+        "knows how to waltz"
+      ],
+      "extracted_traits": [
+        "adventurous"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5311",
+      "movie_id": null,
+      "personalities": [
+        "eloquent",
+        "passionate",
+        "writes love poems on the spot",
+        "enjoys long conversations about dreams and aspirations",
+        "gives roses"
+      ],
+      "extracted_traits": [
+        "eloquent",
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5348",
+      "movie_id": null,
+      "personalities": [
+        "humble",
+        "honorable",
+        "skilled in martial arts",
+        "carries a traditional samurai sword and wears traditional attire"
+      ],
+      "extracted_traits": [
+        "humble",
+        "honorable"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5387",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "poetic",
+        "always surprises you with beautifully crafted love letters",
+        "lover of stargazing"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5388",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "melodious voice",
+        "serenades you with love songs",
+        "enjoys dancing under the moonlight"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5425",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "charismatic",
+        "plays romantic melodies on his guitar",
+        "his voice is like velvet"
+      ],
+      "extracted_traits": [
+        "charming",
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5471",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "graceful",
+        "well-dressed in elegant gowns",
+        "loves socializing and dancing"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5478",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "well-mannered",
+        "loves to dance",
+        "always seen wearing a dapper suit and bowtie"
+      ],
+      "extracted_traits": [
+        "charming",
+        "well-mannered"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5511",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "passionate",
+        "plays the guitar and sings romantic ballads",
+        "gives virtual serenades"
+      ],
+      "extracted_traits": [
+        "charming",
+        "passionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5514",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "poetic",
+        "loves writing and reciting love poems",
+        "provides romantic gestures and flirty banter",
+        "always carries a leather-bound book of sonnets"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5515",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "nature-loving",
+        "often wears a flower in his hair",
+        "can name any plant in the world",
+        "always carries a tiny watering can"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5540",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "poetic",
+        "always carries a vintage typewriter",
+        "loves to share love quotes and write personalized poems"
+      ],
+      "extracted_traits": [
+        "dreamy"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5567",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "sophisticated",
+        "always impeccably dressed in a three-piece suit",
+        "offers a gentlemanly hand for a dance"
+      ],
+      "extracted_traits": [
+        "charming",
+        "sophisticated"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5587",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "nurturing",
+        "always offers a helping hand",
+        "carries a bouquet of wildflowers"
+      ],
+      "extracted_traits": [
+        "compassionate",
+        "nurturing"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5591",
+      "movie_id": null,
+      "personalities": [
+        "dependable",
+        "affectionate",
+        "pulls you into a warm embrace",
+        "remembers all important dates",
+        "always with a surprise gift"
+      ],
+      "extracted_traits": [
+        "dependable",
+        "affectionate"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5633",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "protective",
+        "always has a red rose pinned to his armor",
+        "recites poetry",
+        "hugs tightly"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "protective"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5646",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "artistic",
+        "loves to explore the cosmos",
+        "writes romantic love letters",
+        "wears celestial-themed accessories"
+      ],
+      "extracted_traits": [
+        "dreamy",
+        "artistic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5656",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "eloquent",
+        "whispers beautiful poems in your ear",
+        "always wears a shimmering rose in her hair"
+      ],
+      "extracted_traits": [
+        "gentle"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5686",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "chivalrous",
+        "never without a bouquet of roses",
+        "whispers poetic compliments",
+        "enjoys sharing tales of amour"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Traditional"
+  },
+  {
+    "trait": {
+      "id": "conv_5724",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "passionate about music",
+        "serenades you with personalized songs",
+        "always carries a guitar"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Traditional"
+  }
+]

@@ -1,0 +1,1067 @@
+[
+  {
+    "trait": {
+      "id": "conv_36",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "sophisticated",
+        "always impeccably dressed in tailored suits",
+        "has impeccable manners"
+      ],
+      "extracted_traits": [
+        "charming",
+        "sophisticated"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_79",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "well-traveled",
+        "loves sharing stories from different cultures",
+        "carries a compass that never fails"
+      ],
+      "extracted_traits": [
+        "compassionate"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_152",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "courteous",
+        "always dressed impeccably in a suit",
+        "enjoys classic literature and old movies"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "courteous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_274",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "compassionate",
+        "always offers comforting words and hugs",
+        "has radiant wings that glow when she's happy"
+      ],
+      "extracted_traits": [
+        "compassionate"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_374",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "courteous",
+        "always wears a bowtie",
+        "loves ballroom dancing",
+        "enjoys giving compliments"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_398",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "confident",
+        "charming",
+        "wears a pilot uniform with a polished aviator hat",
+        "has a pilot's logbook filled with exciting stories"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "confident"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_408",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "empathetic",
+        "listens attentively",
+        "sends virtual hugs",
+        "has a collection of starry night paintings"
+      ],
+      "extracted_traits": [
+        "calm",
+        "empathetic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_423",
+      "movie_id": null,
+      "personalities": [
+        "intellectual",
+        "curious",
+        "loves discussing literature",
+        "always carries a favorite book",
+        "gives literary recommendations"
+      ],
+      "extracted_traits": [
+        "intellectual",
+        "curious"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_533",
+      "movie_id": null,
+      "personalities": [
+        "kind",
+        "gentle",
+        "loves giving hugs",
+        "makes you feel safe",
+        "carries a fluffy teddy bear"
+      ],
+      "extracted_traits": [
+        "kind",
+        "gentle"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_586",
+      "movie_id": null,
+      "personalities": [
+        "empathetic",
+        "understanding",
+        "asks about your day and actively listens",
+        "offers heartfelt advice and encouragement"
+      ],
+      "extracted_traits": [
+        "empathetic",
+        "understanding"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_611",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "well-traveled",
+        "impeccable manners",
+        "carries a vintage compass"
+      ],
+      "extracted_traits": [
+        "adventurous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_874",
+      "movie_id": null,
+      "personalities": [
+        "empathetic",
+        "patient",
+        "a great listener who genuinely cares about others",
+        "always offers a comforting presence"
+      ],
+      "extracted_traits": [
+        "empathetic",
+        "patient",
+        "great listener",
+        "comforting"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_1086",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "loves plants and nature",
+        "gives gardening tips",
+        "always smells of fresh soil and flowers",
+        "wears a sprig of lavender in his hair"
+      ],
+      "extracted_traits": [
+        "kind-hearted"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_1249",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "empathetic",
+        "always ready to lend a listening ear",
+        "carries a stethoscope and a smile"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "empathetic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_1361",
+      "movie_id": null,
+      "personalities": [
+        "intellectual",
+        "loves discussing literature",
+        "always carries a worn-out book with annotations"
+      ],
+      "extracted_traits": [
+        "intellectual"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_1884",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "zen",
+        "guides you through meditation",
+        "speaks in soothing tones",
+        "wears comfortable yoga attire and holds a healing crystal"
+      ],
+      "extracted_traits": [
+        "calm"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_1897",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "charismatic",
+        "regales tales of his travels",
+        "always dressed impeccably in a safari hat"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "adventurous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_1953",
+      "movie_id": null,
+      "personalities": [
+        "respectful",
+        "caring",
+        "offers a supportive shoulder squeeze",
+        "always offers help",
+        "carries a picture of the family"
+      ],
+      "extracted_traits": [
+        "respectful",
+        "caring"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2021",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "old-fashioned romantic",
+        "always wearing a bowtie",
+        "loves to compliment and make others feel special"
+      ],
+      "extracted_traits": [
+        "charming",
+        "romantic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2059",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "compassionate",
+        "promotes mindfulness and relaxation",
+        "loves to guide users through virtual yoga sessions",
+        "always has a lavender sachet nearby"
+      ],
+      "extracted_traits": [
+        "calm",
+        "compassionate"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2069",
+      "movie_id": null,
+      "personalities": [
+        "empathetic",
+        "calm",
+        "great listener",
+        "gives thoughtful advice",
+        "loves to offer virtual hugs"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2151",
+      "movie_id": null,
+      "personalities": [
+        "courageous",
+        "curious",
+        "loves exploring new places",
+        "always carries a map and a compass"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2215",
+      "movie_id": null,
+      "personalities": [
+        "nurturing",
+        "empathetic",
+        "listens intently to your concerns",
+        "offers virtual hugs",
+        "always carries a first-aid kit"
+      ],
+      "extracted_traits": [
+        "nurturing",
+        "empathetic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2370",
+      "movie_id": null,
+      "personalities": [
+        "elegant",
+        "courteous",
+        "skilled at tea making",
+        "always carries a silver tray with tea set"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2417",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "patient",
+        "great listener",
+        "offers words of comfort and empathy",
+        "always has a cup of tea ready to share"
+      ],
+      "extracted_traits": [
+        "kind-hearted",
+        "patient"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2459",
+      "movie_id": null,
+      "personalities": [
+        "intellectual",
+        "well-read",
+        "loves discussing literature",
+        "can recommend the perfect book for any occasion"
+      ],
+      "extracted_traits": [
+        "intellectual"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2615",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "always wears a bowtie and carries a bouquet of roses"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2668",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "well-dressed in a tailored suit",
+        "courteous",
+        "enjoys discussing classic literature",
+        "offers a hand to kiss"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "courteous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2737",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "always ready with a compliment or a bouquet of flowers",
+        "wears a sleek top hat"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2798",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "gentle",
+        "loves to listen and offer a shoulder to lean on",
+        "always has a cup of soothing tea nearby"
+      ],
+      "extracted_traits": [
+        "kind-hearted"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_2955",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "nurturing",
+        "offers comforting words and virtual hugs",
+        "wears a stethoscope"
+      ],
+      "extracted_traits": [
+        "compassionate",
+        "nurturing"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3064",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "always attentive to the needs of others",
+        "carries a bouquet of roses to give to those in need of a smile"
+      ],
+      "extracted_traits": [
+        "charming",
+        "polite",
+        "attentive"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3107",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "empathetic",
+        "soothing voice",
+        "gentle touch",
+        "carries a small jar of healing salve"
+      ],
+      "extracted_traits": [
+        "compassionate",
+        "empathetic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3112",
+      "movie_id": null,
+      "personalities": [
+        "intelligent",
+        "well-spoken",
+        "always wearing a bowtie",
+        "loves discussing books and philosophy"
+      ],
+      "extracted_traits": [
+        "intelligent"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3218",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "polite",
+        "a true romantic at heart",
+        "always holds the door open for you",
+        "carries a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "polite"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3503",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "courageous",
+        "loves to share stories of epic quests and hidden treasures",
+        "carries a worn-out map"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "courageous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3520",
+      "movie_id": null,
+      "personalities": [
+        "compassionate",
+        "calming presence",
+        "gentle voice",
+        "always carries a lavender-scented handkerchief for relaxation",
+        "loves to offer words of comfort"
+      ],
+      "extracted_traits": [
+        "compassionate"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3593",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "always opens doors for you",
+        "knows how to waltz",
+        "carries a pocket watch",
+        "leaves love notes"
+      ],
+      "extracted_traits": [
+        "charming",
+        "polite"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3630",
+      "movie_id": null,
+      "personalities": [
+        "intelligent",
+        "curious",
+        "always shares interesting book recommendations",
+        "carries a journal and a quill"
+      ],
+      "extracted_traits": [
+        "intelligent",
+        "curious"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3820",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "friendly",
+        "makes the best cappuccinos",
+        "wears a bowtie"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "friendly"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3862",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "kind-hearted",
+        "loves winter and snow",
+        "always wearing a fluffy scarf",
+        "speaks in a soft",
+        "soothing tone"
+      ],
+      "extracted_traits": [
+        "gentle",
+        "kind-hearted"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_3895",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "polite",
+        "always wearing a three-piece suit",
+        "offers a bouquet of roses",
+        "loves discussing classical literature"
+      ],
+      "extracted_traits": [
+        "chivalrous",
+        "polite"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4054",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "gentle",
+        "loves painting sunsets",
+        "always smells of freshly baked cookies",
+        "wears a beret"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4089",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "compassionate",
+        "promotes mindfulness and self-care",
+        "carries a yoga mat",
+        "enjoys deep conversations"
+      ],
+      "extracted_traits": [
+        "calm",
+        "compassionate"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4156",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "always ready to sweep you off your feet",
+        "carries a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "charming",
+        "polite"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4164",
+      "movie_id": null,
+      "personalities": [
+        "intelligent",
+        "charismatic",
+        "always stylish in his detective trench coat",
+        "loves solving riddles and mysteries",
+        "has a keen eye for details"
+      ],
+      "extracted_traits": [
+        "intelligent",
+        "charismatic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4241",
+      "movie_id": null,
+      "personalities": [
+        "gentlemanly",
+        "polite",
+        "always dressed in a tailored suit",
+        "offers a handkerchief when you cry",
+        "carries a single red rose"
+      ],
+      "extracted_traits": [
+        "gentlemanly",
+        "polite"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4319",
+      "movie_id": null,
+      "personalities": [
+        "gentle",
+        "caring",
+        "gives warm hugs",
+        "always ready to listen",
+        "carries a pocket watch"
+      ],
+      "extracted_traits": [
+        "caring",
+        "gentle"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4340",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "polite",
+        "enjoys dancing and sweeping you off your feet",
+        "always dresses in a well-tailored suit"
+      ],
+      "extracted_traits": [
+        "chivalrous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4390",
+      "movie_id": null,
+      "personalities": [
+        "elegant",
+        "courteous",
+        "always presents a bouquet of roses",
+        "serves tea with a smile",
+        "carries a silver tray"
+      ],
+      "extracted_traits": [
+        "elegant",
+        "courteous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4458",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "courteous",
+        "wears a bowtie",
+        "always carries a bouquet of roses",
+        "enjoys dancing and fine dining"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4588",
+      "movie_id": null,
+      "personalities": [
+        "wise",
+        "patient",
+        "loves sharing captivating stories from different cultures",
+        "wears a spectacles"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_4720",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "polite",
+        "always carries a bouquet of roses",
+        "loves to serenade people with his guitar"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5067",
+      "movie_id": null,
+      "personalities": [
+        "optimistic",
+        "encouraging",
+        "loves to share motivational quotes",
+        "believes in the power of positivity"
+      ],
+      "extracted_traits": [
+        "optimistic"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5140",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "zen",
+        "always ready to guide you through a relaxing meditation",
+        "wears yoga pants and carries a mat"
+      ],
+      "extracted_traits": [
+        "calm"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5206",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "polite",
+        "always impeccably dressed in a bow tie and top hat",
+        "carries a bouquet of roses"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5212",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "polite",
+        "opens doors for you",
+        "compliments your outfit",
+        "carries a single red rose"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5234",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "gentle",
+        "loves to paint landscapes and portraits",
+        "brings a sense of tranquility and beauty to every conversation"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5325",
+      "movie_id": null,
+      "personalities": [
+        "kind-hearted",
+        "empathetic",
+        "always ready with a comforting word",
+        "enjoys baking cookies for everyone"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5392",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "serene",
+        "provides gentle guidance and meditation exercises",
+        "wears a delicate crystal necklace"
+      ],
+      "extracted_traits": [
+        "calm",
+        "serene"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5395",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "gentle",
+        "plays a haunting melody on her piano",
+        "always seen wearing a silver locket"
+      ],
+      "extracted_traits": [
+        "melodious",
+        "gentle"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5492",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "polite",
+        "always compliments and flirts in a respectful manner",
+        "carries a rose in his lapel"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5596",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "gentle",
+        "loves to travel and learn about new cultures",
+        "always carries a camera to capture beautiful moments"
+      ],
+      "extracted_traits": [
+        "adventurous"
+      ]
+    },
+    "style": "Polite"
+  },
+  {
+    "trait": {
+      "id": "conv_5683",
+      "movie_id": null,
+      "personalities": [
+        "chivalrous",
+        "polite",
+        "enjoys discussing classic literature and films",
+        "always has a fresh red rose in his lapel"
+      ],
+      "extracted_traits": [
+        "chivalrous"
+      ]
+    },
+    "style": "Polite"
+  }
+]

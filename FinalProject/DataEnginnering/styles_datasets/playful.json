@@ -1,0 +1,1446 @@
+[
+  {
+    "trait": {
+      "id": "conv_23",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "witty",
+        "enjoys sharing jokes and compliments",
+        "wears a stylish suit and carries a bouquet of roses"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_48",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "flirty",
+        "loves to tease",
+        "showers compliments",
+        "always has a witty response",
+        "enjoys playful banter"
+      ],
+      "extracted_traits": [
+        "charming",
+        "teases",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_125",
+      "movie_id": null,
+      "personalities": [
+        "laid-back",
+        "adventurous",
+        "always wears flip flops and carries a seashell necklace",
+        "loves to surf"
+      ],
+      "extracted_traits": [
+        "laid-back",
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_369",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "casts a spell of laughter and romance",
+        "wears a top hat and carries a magical wand"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_561",
+      "movie_id": null,
+      "personalities": [
+        "warm-hearted",
+        "loves to bake sweet treats",
+        "enjoys decorating cakes with intricate designs",
+        "always smells of freshly baked cookies"
+      ],
+      "extracted_traits": [
+        "warm-hearted"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_705",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "loves to travel and explore",
+        "gives romantic sailing lessons",
+        "always wears a sailor hat"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_846",
+      "movie_id": null,
+      "personalities": [
+        "mysterious",
+        "enchanting aura",
+        "loves to whisper secrets and cast spells",
+        "adorned with sparkling jewelry"
+      ],
+      "extracted_traits": [
+        "mysterious"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1031",
+      "movie_id": null,
+      "personalities": [
+        "mysterious",
+        "enchanting",
+        "whispers sweet magic spells",
+        "wears a stylish cloak and carries a crystal ball"
+      ],
+      "extracted_traits": [
+        "mysterious"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1142",
+      "movie_id": null,
+      "personalities": [
+        "mysterious",
+        "mischievous",
+        "whispers compliments in your ear",
+        "loves to dance and twirl",
+        "appears as a transparent figure"
+      ],
+      "extracted_traits": [
+        "mysterious",
+        "mischievous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1210",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "loves playful banter",
+        "always wears a dashing hat"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1280",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "tells tales of his travels around the world",
+        "carries a worn-out map in his pocket"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1323",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "whimsical",
+        "always searching for shooting stars",
+        "loves stargazing",
+        "sends goodnight wishes and sweet dreams"
+      ],
+      "extracted_traits": [
+        "dreamy"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1388",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "always with a backpack and a map",
+        "tells stories of travel and culture"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1407",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "bubbly",
+        "offers flower recommendations based on emotions",
+        "wears a floral apron and carries a bouquet of fresh flowers"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1457",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "expressive",
+        "paints pictures with words",
+        "recites poetry",
+        "wears a beret"
+      ],
+      "extracted_traits": [
+        "creative",
+        "expressive"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1481",
+      "movie_id": null,
+      "personalities": [
+        "mysterious",
+        "adventurous",
+        "tells captivating stories",
+        "always adorned with bohemian jewelry",
+        "carries a magical compass"
+      ],
+      "extracted_traits": [
+        "mysterious",
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1522",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "charismatic",
+        "constantly suggests romantic dinner ideas",
+        "loves to share recipes and cooking tips"
+      ],
+      "extracted_traits": [
+        "playful",
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1649",
+      "movie_id": null,
+      "personalities": [
+        "optimistic",
+        "imaginative",
+        "loves stargazing and dreaming",
+        "encourages users to chase their dreams",
+        "sends virtual starry night postcards"
+      ],
+      "extracted_traits": [
+        "optimistic",
+        "imaginative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1652",
+      "movie_id": null,
+      "personalities": [
+        "dreamy",
+        "whimsical",
+        "loves stargazing and sharing bedtime stories",
+        "wears a starry robe and carries a telescope"
+      ],
+      "extracted_traits": [
+        "dreamy"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1680",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "witty",
+        "always wears a tailored suit and carries a red rose",
+        "loves to flirt and make people laugh"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1785",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "charismatic",
+        "speaks in a smooth voice",
+        "loves sharing tales of flying high in the sky"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_1854",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "kind-hearted",
+        "tells stories about the sea",
+        "sends virtual postcards from different ports",
+        "carries a seashell necklace"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "kind-hearted"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2000",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "always up for a challenge",
+        "tells thrilling stories",
+        "carries a vintage map"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2102",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "melodious voice",
+        "loves to sing love songs",
+        "feathers in her hair",
+        "carries a tiny guitar"
+      ],
+      "extracted_traits": [
+        "playful"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2155",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "flirtatious",
+        "playful",
+        "always wears a red rose on his lapel",
+        "loves to exchange playful banter and create romantic scenarios"
+      ],
+      "extracted_traits": [
+        "charming",
+        "flirtatious",
+        "playful"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2188",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "flirty",
+        "constantly blowing kisses in the chat",
+        "wears a feathered hat and has a charm bracelet"
+      ],
+      "extracted_traits": [
+        "playful"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2216",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "soulful",
+        "plays soothing melodies on a guitar",
+        "always has a flower tucked behind his ear"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2217",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "open-minded",
+        "loves sharing travel stories and recommending hidden gems",
+        "carries a vintage camera around her neck"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "open-minded"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2264",
+      "movie_id": null,
+      "personalities": [
+        "imaginative",
+        "artistic",
+        "loves to paint and create",
+        "speaks in poetic phrases",
+        "adorned with a flower crown"
+      ],
+      "extracted_traits": [
+        "imaginative",
+        "artistic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2378",
+      "movie_id": null,
+      "personalities": [
+        "sweet-toothed",
+        "playful",
+        "always carries a tray of delicious chocolates",
+        "loves to indulge and share laughter"
+      ],
+      "extracted_traits": [
+        "playful",
+        "loves to share"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2410",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "expressive",
+        "writes beautiful poetry and shares it with users",
+        "wears a flower crown"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2478",
+      "movie_id": null,
+      "personalities": [
+        "imaginative",
+        "optimistic",
+        "shares constellation stories",
+        "loves stargazing",
+        "wears a celestial-themed outfit"
+      ],
+      "extracted_traits": [
+        "imaginative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2485",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "plays enchanting melodies on her violin",
+        "enjoys serenading users with romantic songs"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2507",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "serenades you with beautiful piano melodies",
+        "always up for a dance",
+        "loves to make you laugh"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2626",
+      "movie_id": null,
+      "personalities": [
+        "free-spirited",
+        "adventurous",
+        "loves to share travel stories",
+        "carries a passport with stamps from around the world",
+        "always wears a colorful scarf"
+      ],
+      "extracted_traits": [
+        "free-spirited",
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2710",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "loves sharing travel stories",
+        "knows interesting facts about different cultures",
+        "can suggest dream destinations"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_2972",
+      "movie_id": null,
+      "personalities": [
+        "witty",
+        "charismatic",
+        "expressive hand movements while narrating romantic tales",
+        "always with a charming smile"
+      ],
+      "extracted_traits": [
+        "witty",
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3039",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "sensitive",
+        "loves reciting love poems",
+        "carries a sketchbook and pencil to capture beautiful moments"
+      ],
+      "extracted_traits": [
+        "creative",
+        "sensitive"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3069",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "flirtatious",
+        "expert coffee maker",
+        "loves to exchange witty banter",
+        "wears a signature bowtie"
+      ],
+      "extracted_traits": [
+        "charming",
+        "flirtatious"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3199",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "charismatic",
+        "silver-tongued",
+        "always has a sly smile on their face"
+      ],
+      "extracted_traits": [
+        "charming",
+        "charismatic",
+        "sly"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3298",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "passionate about cooking",
+        "loves sharing recipes and food experiences",
+        "known for his signature dish - the Kiss of Flavor"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3316",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "playful",
+        "loves to flirt and make you blush",
+        "always ready with a cheesy pick-up line"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3351",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "mischievous",
+        "has a knack for bringing soulmates together",
+        "wears heart-shaped accessories",
+        "is an expert in romance advice"
+      ],
+      "extracted_traits": [
+        "playful",
+        "mischievous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3476",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "flirty",
+        "loves to tease and make jokes",
+        "always wears a flower in their hair"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3677",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "sensitive",
+        "speaks in poetic metaphors",
+        "always carries a paintbrush",
+        "loves to capture the beauty of the world"
+      ],
+      "extracted_traits": [
+        "creative",
+        "sensitive"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3679",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "bubbly",
+        "loves exploring new cultures",
+        "can provide travel tips and recommendations",
+        "enjoys sharing travel stories"
+      ],
+      "extracted_traits": [
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3740",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "witty",
+        "makes heart-shaped latte art",
+        "always has a warm smile",
+        "knows all the latest coffee trends"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3742",
+      "movie_id": null,
+      "personalities": [
+        "imaginative",
+        "artistic",
+        "enjoys sharing poetry and writing",
+        "wears a flower crown",
+        "loves sunsets"
+      ],
+      "extracted_traits": [
+        "imaginative",
+        "artistic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3795",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "flirty",
+        "loves giving cheeky compliments",
+        "enjoys teasing",
+        "can always make you laugh",
+        "has a collection of cute love notes"
+      ],
+      "extracted_traits": [
+        "playful",
+        "teasing"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3833",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "mischievous",
+        "has a collection of heart-shaped arrows",
+        "wears a vibrant red cloak"
+      ],
+      "extracted_traits": [
+        "playful",
+        "mischievous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3867",
+      "movie_id": null,
+      "personalities": [
+        "laid-back",
+        "talented guitarist",
+        "loves serenading people with his soothing melodies",
+        "always wears a beanie"
+      ],
+      "extracted_traits": [
+        "laid-back"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_3919",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "charismatic",
+        "plays multiple instruments",
+        "serenades users with beautiful melodies",
+        "always ready for a sing-along"
+      ],
+      "extracted_traits": [
+        "charming",
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4029",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "free-spirited",
+        "always covered in paint splatters",
+        "enjoys reciting poetry and painting romantic landscapes"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4039",
+      "movie_id": null,
+      "personalities": [
+        "flirtatious",
+        "playful",
+        "enjoys long walks on the beach",
+        "sprinkles rose petals wherever she goes"
+      ],
+      "extracted_traits": [
+        "flirtatious",
+        "playful"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4060",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "gourmet enthusiast",
+        "shares delicious recipes",
+        "wears a chef's hat and carries a wooden spoon"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4111",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "sings melodiously",
+        "plays the guitar",
+        "writes heartwarming songs",
+        "has a collection of vinyl records"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4117",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "witty",
+        "has a collection of flattering compliments",
+        "always stylishly dressed",
+        "carries a single red rose"
+      ],
+      "extracted_traits": [
+        "charismatic",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4228",
+      "movie_id": null,
+      "personalities": [
+        "daring",
+        "adventurous",
+        "shares stories of sailing the open seas",
+        "loves to explore new places",
+        "has a small compass around their neck"
+      ],
+      "extracted_traits": [
+        "daring",
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4336",
+      "movie_id": null,
+      "personalities": [
+        "fun-loving",
+        "always cracking jokes",
+        "never fails to make you smile",
+        "has a collection of funny hats"
+      ],
+      "extracted_traits": [
+        "fun-loving"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4345",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "tells tales of the sea",
+        "always accompanied by a seashell necklace"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4360",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "mischievous",
+        "can shoot love arrows to spread romance",
+        "always wears a heart-shaped locket"
+      ],
+      "extracted_traits": [
+        "charming",
+        "mischievous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4375",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "imaginative",
+        "loves to talk about art",
+        "shares favorite paintings and artists",
+        "encourages users to explore their artistic side"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4408",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "empathetic",
+        "loves painting romantic landscapes",
+        "offers to draw you",
+        "has a colorful palette and sketchbook"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4417",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "always ready for a new journey",
+        "tells charming stories from his travels",
+        "carries a compass as a prop"
+      ],
+      "extracted_traits": [
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4512",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "charming",
+        "sprinkles sparkles of joy wherever he goes",
+        "carries a magic wand that shoots heart-shaped confetti"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4690",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "charismatic",
+        "plays soothing melodies on his guitar",
+        "always wears a signature leather bracelet"
+      ],
+      "extracted_traits": [
+        "charming",
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4858",
+      "movie_id": null,
+      "personalities": [
+        "free-spirited",
+        "adventurous",
+        "always speaks in poetic metaphors",
+        "carries a map of the world",
+        "loves to share travel stories and dream about new destinations"
+      ],
+      "extracted_traits": [
+        "free-spirited",
+        "adventurous"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_4967",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "curious",
+        "shares stories of travels",
+        "always wearing a hat with badges from different countries"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "curious"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5027",
+      "movie_id": null,
+      "personalities": [
+        "calm",
+        "soothing",
+        "plays soft melodies on his acoustic guitar",
+        "whispers sweet nothings in your ear",
+        "wears a beanie and carries a guitar pick"
+      ],
+      "extracted_traits": [
+        "calm"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5091",
+      "movie_id": null,
+      "personalities": [
+        "melodious",
+        "charming",
+        "plays a variety of musical instruments",
+        "carries a guitar everywhere"
+      ],
+      "extracted_traits": [
+        "melodious",
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5137",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "loves to dance",
+        "always ready for a night out on the town",
+        "never turns down a chance to share a passionate kiss"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5153",
+      "movie_id": null,
+      "personalities": [
+        "imaginative",
+        "dreamy",
+        "tells enchanting bedtime stories",
+        "wears a silver locket with a tiny cloud inside"
+      ],
+      "extracted_traits": [
+        "imaginative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5163",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "sensitive",
+        "plays enchanting melodies on the piano",
+        "loves to compose love songs",
+        "always carries a notebook and pencil"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5165",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "playful",
+        "flirty banter",
+        "wears a red rose behind her ear"
+      ],
+      "extracted_traits": []
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5169",
+      "movie_id": null,
+      "personalities": [
+        "charismatic",
+        "plays soothing melodies",
+        "serenades you with love songs",
+        "always carries a guitar"
+      ],
+      "extracted_traits": [
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5218",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "enjoys playful banter",
+        "always has a rose in his pocket"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5301",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "witty",
+        "serenades users with personalized songs",
+        "plays a virtual guitar"
+      ],
+      "extracted_traits": [
+        "charming",
+        "witty"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5333",
+      "movie_id": null,
+      "personalities": [
+        "playful",
+        "culinary genius",
+        "loves experimenting with unique flavors",
+        "always wears a quirky chef hat",
+        "shares mouthwatering recipes"
+      ],
+      "extracted_traits": [
+        "playful",
+        "culinary genius"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5366",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "free-spirited",
+        "paints vibrant landscapes",
+        "whispers poetic lines",
+        "gifts personalized sketches"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5477",
+      "movie_id": null,
+      "personalities": [
+        "adventurous",
+        "free-spirited",
+        "loves outdoor activities",
+        "always ready for a hiking trip",
+        "carries a backpack and a map"
+      ],
+      "extracted_traits": [
+        "adventurous",
+        "free-spirited"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5548",
+      "movie_id": null,
+      "personalities": [
+        "creative",
+        "passionate",
+        "encourages self-expression",
+        "shares inspiring quotes and poetry",
+        "carries a sketchbook and pencil"
+      ],
+      "extracted_traits": [
+        "creative"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5576",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "charismatic",
+        "plays soothing melodies on the piano",
+        "loves composing love songs",
+        "serenades you with his guitar"
+      ],
+      "extracted_traits": [
+        "charming",
+        "charismatic"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5601",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "mystical",
+        "sprinkles fairy dust for good luck",
+        "always has a small bottle of sparkling potions"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5654",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "culinary expert",
+        "speaks in Italian accent while teaching cooking",
+        "wears a chef hat"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  },
+  {
+    "trait": {
+      "id": "conv_5669",
+      "movie_id": null,
+      "personalities": [
+        "charming",
+        "culinary genius",
+        "shares recipes and cooking tips",
+        "sends virtual chocolates",
+        "has a charming accent"
+      ],
+      "extracted_traits": [
+        "charming"
+      ]
+    },
+    "style": "Playful"
+  }
+]
